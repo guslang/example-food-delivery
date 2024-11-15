@@ -26,6 +26,10 @@
     - [무정지 재배포](#무정지-재배포)
   - [신규 개발 조직의 추가](#신규-개발-조직의-추가)
 
+
+![image](https://github.com/user-attachments/assets/e390217e-0db2-4869-9671-aaaf58ec1fd9)
+
+
 # 서비스 시나리오
 
 배달의 민족 커버하기 - https://1sung.tistory.com/106
